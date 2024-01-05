@@ -6,10 +6,11 @@
 - Comment développer en utilisant une base de données SQL (`MySQL` / `SQLite` / `PostgreSQL`) ✔️
 - La connexion de mon application à une base de données avec et sans ORM/ODM (`MySQL` avec `mysql2` ou `knex` et `PostgreSQL` avec `TypeORM`) ✔️
 - Le développement d'une API REST et GraphQL (avec les packages `express` et `graphql`) ✔️
-- La création d'un context et la manipulation des `CORS`✔️
-- La manipulation des fichiers système (avec `fs` et `multer`) ✔️
+- La création d'un context et la configuration des `CORS`✔️
+- La manipulation des fichiers (avec `fs` et `multer`) ✔️
 - Le hash des données sensibles avant enregistrement en DB (avec `argon2`) ✔️
 - Comment mettre en place un système d'authentification et de connexion-déconnexion complet. Création de tokens à stocker dans le `Local Storage` ou de cookies dans le navigateur (avec `JWT` et `Cookies`) ✔️
+- Sécurisation des Resolvers avec `@Authorized()` ✔️
 - La gestion des emails (avec `nodeMailer`) ✔️
 
 ## 💻 J'utilise

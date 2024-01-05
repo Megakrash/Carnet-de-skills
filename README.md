@@ -2,9 +2,8 @@
 
 ## 👩🏽‍💻 Développer
 
-- [Dev Backend `Base de données - SQL`](development/db-sql.md)
 - [Dev Backend `NodeJS`](development/nodejs.md)
-- [Dev Frontend `React`](development/react.md)
+- [Dev Frontend `React-Next`](development/react-next.md)
 - [Dev Mobile `React Native`](development/react-native.md)
 - [Gestion de projet `SCRUM`](development/scrum.md)
 - [Langage `TypeScript`](development/langage-typescript.md)
