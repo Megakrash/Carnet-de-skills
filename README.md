@@ -2,7 +2,7 @@
 
 ## 👩🏽‍💻 Développer
 
-- [Langage `Javascript`](development/langage-javascript.md)
+- [Dev Backend `Base de données - SQL`](development/db-sql.md)
 - [Dev Backend `NodeJS`](development/nodejs.md)
 - [Dev Frontend `React`](development/react.md)
 - [Dev Mobile `React Native`](development/react-native.md)
